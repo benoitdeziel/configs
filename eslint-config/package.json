@@ -1,0 +1,11 @@
+{
+  "name": "eslint-config-benoitdeziel",
+  "version": "1.0.0",
+  "description": "Eslint config",
+  "main": "index.js",
+  "author": "Benoit Deziel",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 8"
+  }
+}
